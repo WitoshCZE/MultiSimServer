@@ -1,0 +1,106 @@
+[
+  {
+    "Username": "admin",
+    "Password": "4524266",
+    "Email": "radekvitik@gmail.com",
+    "WorkerId": 35650,
+    "Role": "supervisor",
+    "Permission": "C",
+    "FirstName": "Radek",
+    "LastName": "Vit\u00EDk",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Points": 1240,
+    "License": {
+      "Type": "unlimited",
+      "Expires": null
+    },
+    "Stats": {
+      "TotalPlaySeconds": 485,
+      "TotalPlayTime": "0h 8m",
+      "SessionCount": 69,
+      "CommandsExecuted": 1240,
+      "ErrorsTriggered": 12,
+      "LastLogin": "09.06.2026 23:02:50",
+      "LastLogout": "09.06.2026 23:06:45",
+      "LastActivity": null
+    }
+  },
+  {
+    "Username": "Michal",
+    "Password": "heslo",
+    "Email": "Michal.0007@email.cz",
+    "WorkerId": 45007,
+    "Role": "supervisor",
+    "Permission": "C",
+    "FirstName": "Michal",
+    "LastName": "Marek",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 2. stupn\u011B",
+    "Points": 1240,
+    "License": {
+      "Type": "unlimited",
+      "Expires": null
+    },
+    "Stats": {
+      "TotalPlaySeconds": 0,
+      "TotalPlayTime": "0h 0m",
+      "SessionCount": 0,
+      "CommandsExecuted": 0,
+      "ErrorsTriggered": 0,
+      "LastLogin": "09.06.2026 23:07:37",
+      "LastLogout": "09.06.2026 22:48:27",
+      "LastActivity": null
+    }
+  },
+  {
+    "Username": "guest",
+    "Password": "guest",
+    "Email": "guest@example.com",
+    "WorkerId": 0,
+    "Role": "readonly",
+    "Permission": "A",
+    "FirstName": "Guest",
+    "LastName": "User",
+    "Rank": "N/A",
+    "Points": 0,
+    "License": {
+      "Type": "unlimited",
+      "Expires": null
+    },
+    "Stats": {
+      "TotalPlaySeconds": 0,
+      "TotalPlayTime": "0h 0m",
+      "SessionCount": 0,
+      "CommandsExecuted": 0,
+      "ErrorsTriggered": 0,
+      "LastLogin": null,
+      "LastLogout": null,
+      "LastActivity": null
+    }
+  },
+  {
+    "Username": "test",
+    "Password": "test",
+    "Email": "test.user@example.com",
+    "WorkerId": 99999,
+    "Role": "operator",
+    "Permission": "B",
+    "FirstName": "Test",
+    "LastName": "User",
+    "Rank": "V\u00FDprav\u010D\u00ED 1. t\u0159\u00EDdy",
+    "Points": 500,
+    "License": {
+      "Type": "limited",
+      "Expires": "2026-06-08"
+    },
+    "Stats": {
+      "TotalPlaySeconds": 4320,
+      "TotalPlayTime": "1h 12m",
+      "SessionCount": 12,
+      "CommandsExecuted": 300,
+      "ErrorsTriggered": 2,
+      "LastLogin": "09.06.2026 22:58:19",
+      "LastLogout": null,
+      "LastActivity": null
+    }
+  }
+]
