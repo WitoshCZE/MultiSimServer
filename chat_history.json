@@ -1,0 +1,1130 @@
+[
+  {
+    "Id": 42,
+    "Timestamp": "2026-06-13T19:18:43.7444875Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "alfanumericke znaky funguji. tecky a carky taky\u003C\u003C\u003E_:\u0022[]:\u0022123!@#%@"
+  },
+  {
+    "Id": 43,
+    "Timestamp": "2026-06-13T19:24:51.6265292Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "diakritika stale nefunguje_\u003E\u003C"
+  },
+  {
+    "Id": 44,
+    "Timestamp": "2026-06-13T19:25:03.6695575Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 45,
+    "Timestamp": "2026-06-13T19:25:51.7954635Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdfsd"
+  },
+  {
+    "Id": 46,
+    "Timestamp": "2026-06-13T19:26:03.5727481Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "qweqwe"
+  },
+  {
+    "Id": 47,
+    "Timestamp": "2026-06-13T19:30:09.1962303Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 48,
+    "Timestamp": "2026-06-13T19:30:09.8209361Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 49,
+    "Timestamp": "2026-06-13T19:30:10.6338247Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161"
+  },
+  {
+    "Id": 50,
+    "Timestamp": "2026-06-13T19:30:10.6378032Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 51,
+    "Timestamp": "2026-06-13T19:30:10.9411544Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161"
+  },
+  {
+    "Id": 52,
+    "Timestamp": "2026-06-13T19:30:10.9412388Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 54,
+    "Timestamp": "2026-06-13T19:30:11.3185812Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161"
+  },
+  {
+    "Id": 55,
+    "Timestamp": "2026-06-13T19:30:12.9675658Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161"
+  },
+  {
+    "Id": 56,
+    "Timestamp": "2026-06-13T19:30:12.9684575Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 57,
+    "Timestamp": "2026-06-13T19:30:16.125986Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161\u011B"
+  },
+  {
+    "Id": 58,
+    "Timestamp": "2026-06-13T19:30:16.1260276Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 59,
+    "Timestamp": "2026-06-13T19:30:17.8667337Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161\u011Bfdf"
+  },
+  {
+    "Id": 60,
+    "Timestamp": "2026-06-13T19:30:17.8677713Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 61,
+    "Timestamp": "2026-06-13T19:30:18.3004161Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161\u011Bfdf"
+  },
+  {
+    "Id": 62,
+    "Timestamp": "2026-06-13T19:30:18.3008033Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 63,
+    "Timestamp": "2026-06-13T19:30:23.661246Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u011B\u0161\u011Bfdf"
+  },
+  {
+    "Id": 64,
+    "Timestamp": "2026-06-13T19:30:23.6618601Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 65,
+    "Timestamp": "2026-06-13T19:30:24.3339235Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 66,
+    "Timestamp": "2026-06-13T19:30:29.4838413Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 67,
+    "Timestamp": "2026-06-13T19:41:39.3783787Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 68,
+    "Timestamp": "2026-06-13T19:41:39.7328866Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 69,
+    "Timestamp": "2026-06-13T19:41:40.0830222Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 70,
+    "Timestamp": "2026-06-13T19:41:40.4739441Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 71,
+    "Timestamp": "2026-06-13T19:41:41.0331771Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 72,
+    "Timestamp": "2026-06-13T19:41:41.2662758Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsf"
+  },
+  {
+    "Id": 73,
+    "Timestamp": "2026-06-13T19:41:41.2685443Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 74,
+    "Timestamp": "2026-06-13T19:41:41.6167495Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsf"
+  },
+  {
+    "Id": 75,
+    "Timestamp": "2026-06-13T19:41:41.6173133Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 76,
+    "Timestamp": "2026-06-13T19:41:43.6494943Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsf"
+  },
+  {
+    "Id": 77,
+    "Timestamp": "2026-06-13T19:41:43.650375Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 78,
+    "Timestamp": "2026-06-13T19:41:44.233358Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsfsf"
+  },
+  {
+    "Id": 80,
+    "Timestamp": "2026-06-13T19:41:44.7996943Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsfsf"
+  },
+  {
+    "Id": 81,
+    "Timestamp": "2026-06-13T19:41:44.8005169Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 82,
+    "Timestamp": "2026-06-13T19:41:47.6331009Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsfsfsf"
+  },
+  {
+    "Id": 83,
+    "Timestamp": "2026-06-13T19:41:47.6335692Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 84,
+    "Timestamp": "2026-06-13T19:41:47.6361375Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dsfsfsf"
+  },
+  {
+    "Id": 85,
+    "Timestamp": "2026-06-13T19:45:29.4736554Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 86,
+    "Timestamp": "2026-06-13T19:45:30.3994249Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "a"
+  },
+  {
+    "Id": 87,
+    "Timestamp": "2026-06-13T19:45:30.4012002Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 88,
+    "Timestamp": "2026-06-13T19:45:30.86898Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aaa"
+  },
+  {
+    "Id": 89,
+    "Timestamp": "2026-06-13T19:45:30.8693103Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 90,
+    "Timestamp": "2026-06-13T19:45:33.3330874Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aaa"
+  },
+  {
+    "Id": 91,
+    "Timestamp": "2026-06-13T19:45:33.3331784Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 92,
+    "Timestamp": "2026-06-13T19:45:35.6830351Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aaaasdasf sfdfg"
+  },
+  {
+    "Id": 93,
+    "Timestamp": "2026-06-13T19:45:35.6836803Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 94,
+    "Timestamp": "2026-06-13T19:45:35.8438199Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aaaasdasf sfdfg G"
+  },
+  {
+    "Id": 95,
+    "Timestamp": "2026-06-13T19:45:35.843838Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 97,
+    "Timestamp": "2026-06-13T19:45:36.1691219Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 98,
+    "Timestamp": "2026-06-13T19:45:36.3156014Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aaaasdasf sfdfg G"
+  },
+  {
+    "Id": 99,
+    "Timestamp": "2026-06-13T19:45:36.3164419Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 100,
+    "Timestamp": "2026-06-13T20:01:06.5758452Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 101,
+    "Timestamp": "2026-06-13T20:01:06.5819807Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 102,
+    "Timestamp": "2026-06-13T20:01:06.9240798Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 102,
+    "Timestamp": "2026-06-13T20:01:06.92408Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 103,
+    "Timestamp": "2026-06-13T20:01:07.5400543Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 104,
+    "Timestamp": "2026-06-13T20:01:07.540176Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 105,
+    "Timestamp": "2026-06-13T20:01:07.8343861Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 106,
+    "Timestamp": "2026-06-13T20:01:07.8343904Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 107,
+    "Timestamp": "2026-06-13T20:01:07.8369998Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 108,
+    "Timestamp": "2026-06-13T20:01:08.5374842Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 109,
+    "Timestamp": "2026-06-13T20:01:08.5379563Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 110,
+    "Timestamp": "2026-06-13T20:01:08.537957Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 111,
+    "Timestamp": "2026-06-13T20:01:08.970749Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdf"
+  },
+  {
+    "Id": 112,
+    "Timestamp": "2026-06-13T20:01:08.9713764Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 113,
+    "Timestamp": "2026-06-13T20:01:08.9723242Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 114,
+    "Timestamp": "2026-06-13T20:01:09.3301453Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdff"
+  },
+  {
+    "Id": 115,
+    "Timestamp": "2026-06-13T20:01:09.3308205Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 116,
+    "Timestamp": "2026-06-13T20:01:09.3319313Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 117,
+    "Timestamp": "2026-06-13T20:01:10.1206508Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdfff"
+  },
+  {
+    "Id": 118,
+    "Timestamp": "2026-06-13T20:01:10.1213762Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 119,
+    "Timestamp": "2026-06-13T20:01:10.1217907Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 120,
+    "Timestamp": "2026-06-13T20:01:10.9205311Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdffffdd"
+  },
+  {
+    "Id": 121,
+    "Timestamp": "2026-06-13T20:01:10.9207698Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 122,
+    "Timestamp": "2026-06-13T20:01:10.9208759Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 123,
+    "Timestamp": "2026-06-13T20:01:11.6055566Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdffffddf"
+  },
+  {
+    "Id": 124,
+    "Timestamp": "2026-06-13T20:01:11.6062579Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 125,
+    "Timestamp": "2026-06-13T20:01:11.6062745Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 126,
+    "Timestamp": "2026-06-13T20:01:12.8026372Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdfsdffffddfd"
+  },
+  {
+    "Id": 127,
+    "Timestamp": "2026-06-13T20:01:12.8029763Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 128,
+    "Timestamp": "2026-06-13T20:01:12.803549Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 129,
+    "Timestamp": "2026-06-13T20:03:54.7753082Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 130,
+    "Timestamp": "2026-06-13T20:03:55.2209406Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 131,
+    "Timestamp": "2026-06-13T20:03:55.5475238Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 132,
+    "Timestamp": "2026-06-13T20:03:55.8036346Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 133,
+    "Timestamp": "2026-06-13T20:03:56.4315113Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 134,
+    "Timestamp": "2026-06-13T20:03:57.0434665Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asd"
+  },
+  {
+    "Id": 135,
+    "Timestamp": "2026-06-13T20:03:57.0463187Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 136,
+    "Timestamp": "2026-06-13T20:03:57.3869708Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asdasd"
+  },
+  {
+    "Id": 137,
+    "Timestamp": "2026-06-13T20:03:57.3880029Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 138,
+    "Timestamp": "2026-06-13T20:03:57.586554Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asdasdads"
+  },
+  {
+    "Id": 139,
+    "Timestamp": "2026-06-13T20:03:57.5868198Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 140,
+    "Timestamp": "2026-06-13T20:03:57.7209737Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 141,
+    "Timestamp": "2026-06-13T20:06:34.878946Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u00A8"
+  },
+  {
+    "Id": 142,
+    "Timestamp": "2026-06-13T20:06:34.8820519Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 143,
+    "Timestamp": "2026-06-13T20:06:35.6583134Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u00A8"
+  },
+  {
+    "Id": 144,
+    "Timestamp": "2026-06-13T20:06:35.6593Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 145,
+    "Timestamp": "2026-06-13T20:06:36.1177571Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dfs\u00A8"
+  },
+  {
+    "Id": 146,
+    "Timestamp": "2026-06-13T20:06:36.1184526Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 147,
+    "Timestamp": "2026-06-13T20:06:36.4247315Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 148,
+    "Timestamp": "2026-06-13T20:06:36.4247437Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dfssdf\u00A8"
+  },
+  {
+    "Id": 149,
+    "Timestamp": "2026-06-13T20:09:53.1572861Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 150,
+    "Timestamp": "2026-06-13T20:09:53.56382Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 151,
+    "Timestamp": "2026-06-13T20:09:53.8427202Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 152,
+    "Timestamp": "2026-06-13T20:09:54.3792485Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 153,
+    "Timestamp": "2026-06-13T20:09:55.086057Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 154,
+    "Timestamp": "2026-06-13T20:09:55.0884928Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 155,
+    "Timestamp": "2026-06-13T20:12:29.7717763Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u001B\u001Badmin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 156,
+    "Timestamp": "2026-06-13T20:12:30.5000236Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "d"
+  },
+  {
+    "Id": 157,
+    "Timestamp": "2026-06-13T20:12:30.5015001Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u001B\u001Badmin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 158,
+    "Timestamp": "2026-06-13T20:12:31.150039Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "ddsfd"
+  },
+  {
+    "Id": 159,
+    "Timestamp": "2026-06-13T20:12:31.1507499Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u001B\u001Badmin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 160,
+    "Timestamp": "2026-06-13T20:13:49.2087119Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 161,
+    "Timestamp": "2026-06-13T20:13:49.6371949Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 162,
+    "Timestamp": "2026-06-13T20:13:49.6387531Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 163,
+    "Timestamp": "2026-06-13T20:13:50.3874741Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "sdf"
+  },
+  {
+    "Id": 164,
+    "Timestamp": "2026-06-13T20:13:50.3883673Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "admin\t\u010D\u0159\u011B\u010D\u011B\u017E\u017E"
+  },
+  {
+    "Id": 165,
+    "Timestamp": "2026-06-13T20:31:42.6919019Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "assdasd a345"
+  },
+  {
+    "Id": 166,
+    "Timestamp": "2026-06-13T20:31:47.4843121Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asdasda"
+  },
+  {
+    "Id": 167,
+    "Timestamp": "2026-06-13T20:37:48.9400663Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asdsd"
+  },
+  {
+    "Id": 168,
+    "Timestamp": "2026-06-13T20:37:52.4656304Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "a adsd"
+  },
+  {
+    "Id": 169,
+    "Timestamp": "2026-06-13T20:40:00.164734Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "ads"
+  },
+  {
+    "Id": 170,
+    "Timestamp": "2026-06-13T20:40:03.810038Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asd asd asd"
+  },
+  {
+    "Id": 171,
+    "Timestamp": "2026-06-13T20:48:28.8388406Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asd"
+  },
+  {
+    "Id": 172,
+    "Timestamp": "2026-06-14T00:07:21.0781614Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "zprava"
+  },
+  {
+    "Id": 173,
+    "Timestamp": "2026-06-14T00:07:28.8360148Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "asd asd asd asd asd asd"
+  },
+  {
+    "Id": 174,
+    "Timestamp": "2026-06-14T00:07:55.2857241Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "tak to vypada ze to funguje"
+  },
+  {
+    "Id": 175,
+    "Timestamp": "2026-06-14T00:17:55.6081052Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u0161tefan margita \u00ED\u00E1.-\u00FA)\u00A7\u016F\u016F\u0022!(/\u00A8dfyxycmnbyx.,--\u002B/*32,2012557;_:?\u0022!/(\u02C7%\u003C\u003E*$\u00DF@{][\u0110]]\u0111\u20ACSIJN763\u017E"
+  },
+  {
+    "Id": 176,
+    "Timestamp": "2026-06-14T00:18:30.672822Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "\u0161tefan margita \u00ED\u00E1.-\u00FA)\u00A7\u016F\u016F\u0022!(/\u00A8dfyxycmnbyx.,--\u002B/*32,2012557;_:?\u0022!/(\u02C7%\u003C\u003E*$\u00DF@{][\u0110]]\u0111\u20ACSIJN763\u017Easfo ausif asfas"
+  },
+  {
+    "Id": 177,
+    "Timestamp": "2026-06-14T00:26:04.3827412Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "dia\u0161\u010D\u017E\u00FD\u00E125697470\u00FC\u00F6"
+  },
+  {
+    "Id": 178,
+    "Timestamp": "2026-06-14T00:54:55.734422Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "Tak to vypad\u00E1, \u017Ee v\u0161echno funguje p\u0159esn\u011B tak, jak m\u00E1"
+  },
+  {
+    "Id": 179,
+    "Timestamp": "2026-06-14T00:59:48.1238632Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aasd dsa asd ads asd"
+  },
+  {
+    "Id": 180,
+    "Timestamp": "2026-06-14T01:19:53.8761032Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "aasd asd adasd asdasioo saidoia soidoaisodiaosdio aisdoaiso diaosidoa sdioas diao sdioasi doadsi oasido asido asdioa sidoas diaosdi oasido ais odiaosdio asdoi saioasid aisd oias doa sdioa sidoa sdia sdioasidoiasodioaoiosdioasidoia sdio asido aisdoiaosdasd"
+  },
+  {
+    "Id": 181,
+    "Timestamp": "2026-06-14T02:11:00.6788027Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "uka\u017E co v\u0161echno funguje"
+  },
+  {
+    "Id": 182,
+    "Timestamp": "2026-06-14T02:11:46.01394Z",
+    "Sender": "test",
+    "Rank": "V\u00FDprav\u010D\u00ED 1. t\u0159\u00EDdy",
+    "Priority": "normal",
+    "Text": "asi snad funguje v\u0161echno"
+  },
+  {
+    "Id": 183,
+    "Timestamp": "2026-06-14T02:11:57.1087025Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "hele, u\u017Eivatel test je online"
+  },
+  {
+    "Id": 184,
+    "Timestamp": "2026-06-14T14:48:26.7751447Z",
+    "Sender": "admin",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 1. stupn\u011B",
+    "Priority": "normal",
+    "Text": "zkou\u0161ka v\u0161eho mo\u017En\u00E9ho"
+  }
+]

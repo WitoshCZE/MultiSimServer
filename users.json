@@ -15,13 +15,39 @@
       "Expires": null
     },
     "Stats": {
-      "TotalPlaySeconds": 485,
-      "TotalPlayTime": "0h 8m",
-      "SessionCount": 69,
+      "TotalPlaySeconds": 2221,
+      "TotalPlayTime": "0h 37m",
+      "SessionCount": 96,
       "CommandsExecuted": 1240,
       "ErrorsTriggered": 12,
-      "LastLogin": "09.06.2026 23:02:50",
-      "LastLogout": "09.06.2026 23:06:45",
+      "LastLogin": "14.06.2026 20:23:53",
+      "LastLogout": "14.06.2026 20:24:00",
+      "LastActivity": null
+    }
+  },
+  {
+    "Username": "adam",
+    "Password": "adam",
+    "Email": "",
+    "WorkerId": 870514,
+    "Role": "supervisor",
+    "Permission": "C",
+    "FirstName": "Radek",
+    "LastName": "Z\u016Fbek",
+    "Rank": "\u00FAst\u0159edn\u00ED \u0159editel 3. stupn\u011B",
+    "Points": 0,
+    "License": {
+      "Type": "unlimited",
+      "Expires": null
+    },
+    "Stats": {
+      "TotalPlaySeconds": 223,
+      "TotalPlayTime": "0h 3m",
+      "SessionCount": 2,
+      "CommandsExecuted": 0,
+      "ErrorsTriggered": 0,
+      "LastLogin": "11.06.2026 22:26:28",
+      "LastLogout": "11.06.2026 22:27:06",
       "LastActivity": null
     }
   },
@@ -72,7 +98,7 @@
       "SessionCount": 0,
       "CommandsExecuted": 0,
       "ErrorsTriggered": 0,
-      "LastLogin": null,
+      "LastLogin": "11.06.2026 15:46:44",
       "LastLogout": null,
       "LastActivity": null
     }
@@ -93,13 +119,13 @@
       "Expires": "2026-06-08"
     },
     "Stats": {
-      "TotalPlaySeconds": 4320,
-      "TotalPlayTime": "1h 12m",
-      "SessionCount": 12,
+      "TotalPlaySeconds": 4394,
+      "TotalPlayTime": "1h 13m",
+      "SessionCount": 14,
       "CommandsExecuted": 300,
       "ErrorsTriggered": 2,
-      "LastLogin": "09.06.2026 22:58:19",
-      "LastLogout": null,
+      "LastLogin": "14.06.2026 04:11:30",
+      "LastLogout": "11.06.2026 21:39:30",
       "LastActivity": null
     }
   }
